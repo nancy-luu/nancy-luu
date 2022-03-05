@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hello world, I'm Nancy 👋  ~ Welcome to my GitHub! 
 
-<!--
-**nancy-luu/nancy-luu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a jr. dev who has recently completed Flatiron School's software engineering program where I studied fundamentals of front-end and back-end development.
 
-Here are some ideas to get you started:
+More about me ⬇️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const Nancy = {
+    pronouns: "she" | "her",
+    location: "San Francisco",
+    whoami: ["ex-architect", "life-long student", "team player"],
+    askMeAbout: [ "design", "hockey", "music", "social justice", "podcasts"],
+    code: [Javascript, React, HTML, CSS, Ruby, Rails],
+    technologies: {
+        frontEnd: {
+            css: ["bootstrap", "semantic UI"]
+        },
+        backEnd: {
+            ruby: ["sinatra"]
+        }        
+    }
+};
+```
+
+Connect with me: 
+
+https://www.linkedin.com/in/nancyluucodes/
+
+https://medium.com/@archandcode
+
+
+My projects & Repos ⬇️
