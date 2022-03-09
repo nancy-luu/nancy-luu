@@ -6,7 +6,7 @@ More about me ⬇️
 
 ```javascript
 const Nancy = {
-    pronouns: "she" | "her",
+    pronouns: ["she", "her"],
     location: "San Francisco",
     whoami: ["ex-architect", "life-long student", "team player"],
     askMeAbout: [ "design", "hockey", "music", "social justice", "podcasts"],
