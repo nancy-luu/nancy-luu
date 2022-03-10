@@ -6,11 +6,11 @@ More about me ⬇️
 
 ```javascript
 const Nancy = {
-    pronouns: ["she", "her"],
-    location: "San Francisco",
-    whoami: ["ex-architect", "life-long student", "team player"],
-    askMeAbout: [ "design", "hockey", "music", "social justice", "podcasts"],
-    code: [Javascript, React, HTML, CSS, Ruby, Rails],
+    pronouns: ['she', 'her'],
+    location: 'San Francisco',
+    whoami: ['ex-architect', 'life-long student', 'team player'],
+    askMeAbout: ['design', 'hockey', 'music', 'social justice', 'podcasts'],
+    code: [ 'Javascript', 'React', 'HTML', 'CSS', 'Ruby', 'Rails'],
     technologies: {
         frontEnd: {
             css: ["bootstrap", "semantic UI"]
