@@ -10,13 +10,14 @@ const Nancy = {
     location: 'San Francisco',
     whoami: ['ex-architect', 'life-long student', 'team player'],
     askMeAbout: ['design', 'hockey', 'music', 'social justice', 'podcasts'],
-    code: [ 'Javascript', 'React', 'HTML', 'CSS', 'Ruby', 'Rails'],
+    code: [ 'Javascript', 'React', 'HTML', 'CSS', 'Ruby', 'Rails', 'Java'],
     technologies: {
         frontEnd: {
             css: ["bootstrap", "semantic UI"]
         },
         backEnd: {
-            ruby: ["sinatra"]
+            ruby: ["sinatra"],
+            java: ["springboot"]
         }        
     }
 };
