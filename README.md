@@ -23,7 +23,7 @@ const Nancy = {
 };
 ```
 
-Connect with me 🤝: 
+Connect with me 🤝
 
 https://www.nancyluu.dev/
 
