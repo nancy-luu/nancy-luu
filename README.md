@@ -1,6 +1,6 @@
 ### Hello world, I'm Nancy 👋  ~ Welcome to my GitHub! 
 
-I'm a jr. dev who has recently completed Flatiron School's software engineering program where I studied fundamentals of front-end and back-end development.
+I am a highly motivated junior developer with a unique background in architecture and a strong passion for open-source & social justice advocacy. I consider myself a life long student who is always seeking to solve difficult problems with creative solutions - I'm currently furthering my knowledge of functional, integration, system, and user experience testing. 
 
 More about me ⬇️
 
@@ -23,7 +23,9 @@ const Nancy = {
 };
 ```
 
-Connect with me: 
+Connect with me 🤝: 
+
+https://www.nancyluu.dev/
 
 https://www.linkedin.com/in/nancyluucodes/
 
