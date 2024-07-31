@@ -1,6 +1,6 @@
 ### Hello world, I'm Nancy 👋  ~ Welcome to my GitHub! 
 
-I am a highly motivated junior developer with a unique background in architecture and a strong passion for open-source & social justice advocacy. I consider myself a life long student who is always seeking to solve difficult problems with creative solutions - I'm currently furthering my knowledge of functional, integration, system, and user experience testing. 
+I am a highly motivated junior developer with a unique background in architecture and a strong passion for open-source and social justice advocacy. I consider myself a lifelong learner who is always seeking to solve difficult problems with creative solutions. I am currently furthering my knowledge in functional, integration, system, and user experience testing.
 
 More about me ⬇️
 
