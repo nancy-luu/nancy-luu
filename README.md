@@ -1,25 +1,19 @@
-### Hello world, I'm Nancy 👋  ~ Welcome to my GitHub! 
-
-I am a highly motivated junior developer with a unique background in architecture and a strong passion for open-source and social justice advocacy. I consider myself a lifelong learner who is always seeking to solve difficult problems with creative solutions. I am currently furthering my knowledge in functional, integration, system, and user experience testing.
+Software engineer with experience building and shipping web applications, including hands-on work with AI-powered agentic workflows. Proven ability to own projects end-to-end, from architecture decisions to launch. Former architect and project manager with a systems thinking mindset and a track record of cross-functional collaboration.
 
 More about me ⬇️
 
 ```javascript
 const Nancy = {
-    pronouns: ['she', 'her'],
-    location: 'San Francisco',
-    whoami: ['ex-architect', 'life-long student', 'team player'],
-    askMeAbout: ['design', 'hockey', 'music', 'social justice', 'podcasts'],
-    code: [ 'Javascript', 'React', 'HTML', 'CSS', 'Ruby', 'Rails', 'Java'],
-    technologies: {
-        frontEnd: {
-            css: ["bootstrap", "semantic UI"]
-        },
-        backEnd: {
-            ruby: ["sinatra"],
-            java: ["springboot"]
-        }        
-    }
+  location: "San Francisco, CA",
+  whoami: ["software engineer", "former architect", "lifelong learner"],
+  technologies: {
+    frontend: ["TypeScript", "React", "Next.js", "Tailwind", "Chakra UI"],
+    backend: ["Node.js", "Ruby on Rails", "Prisma", "RESTful APIs"],
+    databases: ["PostgreSQL", "Firebase"],
+    tools: ["Figma", "Storybook", "Vercel", "GitHub", "Datadog"],
+  },
+  askMeAbout: ["design systems", "hockey", "social justice", "podcasts"],
+  currentlyLearning: ["Three.js"],
 };
 ```
 
@@ -28,8 +22,5 @@ Connect with me 🤝
 https://www.nancyluu.dev/
 
 https://www.linkedin.com/in/nancyluucodes/
-
-https://medium.com/@archandcode
-
 
 My projects & Repos ⬇️
